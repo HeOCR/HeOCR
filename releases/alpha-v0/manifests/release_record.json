@@ -1,0 +1,19 @@
+{
+  "blocked_count": 0,
+  "exported_at": "2026-04-21T10:37:50.222262+00:00",
+  "hocrgen_commit": "230e199198d195d9178c35c45d8446ed6d42762d",
+  "included_sources": [
+    "nli_any_use_permitted",
+    "pinkas_open",
+    "project_synthetic"
+  ],
+  "profile_id": "profile_open_v1",
+  "real_items": 2,
+  "review_required_count": 4,
+  "schema_version": 1,
+  "split_counts": {
+    "train": 3
+  },
+  "synthetic_items": 1,
+  "version": "alpha-v0"
+}

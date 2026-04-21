@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "canonical_item_id": "biblia_open:biblia-doc-001",
+      "classification_review_reasons": [
+        "content_conflicting_source_priors",
+        "content_low_confidence"
+      ],
+      "content_class": "mixed",
+      "content_confidence": 0.5,
+      "item_id": "biblia_open:biblia-doc-001",
+      "language_class": "mixed_language",
+      "language_confidence": 0.65,
+      "normalized_license": "PD-IL",
+      "period_class": "historical",
+      "period_confidence": 0.95,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "quality_score": 0.9,
+      "quality_tier": "high",
+      "rights_classification": "open",
+      "source_id": "biblia_open",
+      "source_item_id": "biblia-doc-001",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bible_from_1300_(20).jpg",
+      "split_group_id": null,
+      "title": "Hebrew Bible from 1300 (folio 20)"
+    },
+    {
+      "canonical_item_id": "nli_any_use_permitted:nli-ms-001",
+      "classification_review_reasons": [],
+      "content_class": "handwritten",
+      "content_confidence": 0.85,
+      "item_id": "nli_any_use_permitted:nli-ms-001",
+      "language_class": "mixed_language",
+      "language_confidence": 0.9,
+      "normalized_license": "PD-IL",
+      "period_class": "modern",
+      "period_confidence": 0.8,
+      "privacy_decision": "review_required",
+      "privacy_flag": "possible_personal_data",
+      "privacy_reasons": [
+        "modern_letter_review"
+      ],
+      "quality_score": 0.9,
+      "quality_tier": "high",
+      "rights_classification": "open",
+      "source_id": "nli_any_use_permitted",
+      "source_item_id": "nli-ms-001",
+      "source_url": "https://www.nli.org.il/en/discover/manuscripts/nli-ms-001",
+      "split_group_id": null,
+      "title": "\u05de\u05db\u05ea\u05d1 \u05e7\u05d4\u05d9\u05dc\u05ea\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 1936"
+    },
+    {
+      "canonical_item_id": "nli_any_use_permitted:nli-ms-seed-002",
+      "classification_review_reasons": [
+        "content_conflicting_source_priors",
+        "content_low_confidence"
+      ],
+      "content_class": "mixed",
+      "content_confidence": 0.5,
+      "item_id": "nli_any_use_permitted:nli-ms-seed-002",
+      "language_class": "mixed_language",
+      "language_confidence": 0.9,
+      "normalized_license": "PD-IL",
+      "period_class": "modern",
+      "period_confidence": 0.8,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "quality_score": 0.6,
+      "quality_tier": "medium",
+      "rights_classification": "open",
+      "source_id": "nli_any_use_permitted",
+      "source_item_id": "nli-ms-seed-002",
+      "source_url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990001286000205171/NLI",
+      "split_group_id": null,
+      "title": "\u05e7\u05d5\u05d1\u05e5 | Manuscript | NNL_ALEPH990001286000205171 | The National Library of Israel"
+    },
+    {
+      "canonical_item_id": "nli_any_use_permitted:nli-ms-seed-007",
+      "classification_review_reasons": [
+        "content_conflicting_source_priors",
+        "content_low_confidence"
+      ],
+      "content_class": "mixed",
+      "content_confidence": 0.5,
+      "item_id": "nli_any_use_permitted:nli-ms-seed-007",
+      "language_class": "mixed_language",
+      "language_confidence": 0.9,
+      "normalized_license": "PD-IL",
+      "period_class": "modern",
+      "period_confidence": 0.8,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "quality_score": 0.6,
+      "quality_tier": "medium",
+      "rights_classification": "open",
+      "source_id": "nli_any_use_permitted",
+      "source_item_id": "nli-ms-seed-007",
+      "source_url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990032554560205171/NLI",
+      "split_group_id": null,
+      "title": "\u05db\u05ea\u05d5\u05d1\u05d4. \u05d8\u05e0\u05d2'\u05d9\u05e8, \u05de\u05e8\u05d5\u05e7\u05d5. \u05ea\u05e8\u05e1\"\u05d0 | Manuscript | NNL_ALEPH990032554560205171 | The National Library of Israel"
+    }
+  ]
+}
