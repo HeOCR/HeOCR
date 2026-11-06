@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "candidate_id": "nli_any_use_permitted:nli-ms-seed-006",
+      "canonical_item_id": "nli_any_use_permitted:nli-ms-seed-006",
+      "classification_review_reasons": [],
+      "content_class": "handwritten",
+      "content_confidence": 0.85,
+      "content_fingerprint": "f7cf6178bfa9fd431a05c76012911440637a2a03f464242873b940ea23287a04",
+      "dedupe_cluster_id": null,
+      "dedupe_status": "retained",
+      "discovery_method": "seed_manifest",
+      "eligibility": "accepted",
+      "eligibility_reason": "allowed_by_profile",
+      "exported_assets": [
+        {
+          "asset_format": "jpeg",
+          "media_type": "image/jpeg",
+          "release_asset_path": "data/train/nli_any_use_permitted:nli-ms-seed-006/asset_01.jpg",
+          "release_preview_path": "data/train/nli_any_use_permitted:nli-ms-seed-006/previews/asset_01.jpg"
+        }
+      ],
+      "is_synthetic": false,
+      "item_id": "nli_any_use_permitted:nli-ms-seed-006",
+      "language_class": "mixed_language",
+      "language_confidence": 0.9,
+      "metadata": {
+        "description": "\u05e4\u05e0\u05e7\u05e1 | Jewish sermons, Hebrew 19th century , Jewish ethics , Berit milah Registers , Sheluhe de-rabanan , Earthquakes Iran  | \u05ea\u05e8\u05d9\"\u05d5-\u05ea\u05e8\"\u05df (1856-1890) | Manuscript",
+        "notes": "Another ledger/notebook-style seed."
+      },
+      "normalized_license": "PD-IL",
+      "period_class": "modern",
+      "period_confidence": 0.8,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "provenance": {
+        "fetcher": "nli",
+        "source_name": "National Library of Israel - Any Use Permitted items",
+        "source_status": "allowed",
+        "upstream_identifier": "nli-ms-seed-006"
+      },
+      "qa_fail_reasons": [],
+      "qa_status": "passed",
+      "quality_score": 0.9,
+      "quality_tier": "high",
+      "raw_rights_text": "Any Use Permitted",
+      "rights_classification": "open",
+      "source_id": "nli_any_use_permitted",
+      "source_item_id": "nli-ms-seed-006",
+      "source_url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990025691010205171/NLI",
+      "split": "train",
+      "split_group_id": "nli_any_use_permitted:nli-ms-seed-006",
+      "title": "\u05e4\u05e0\u05e7\u05e1 | Manuscript | NNL_ALEPH990025691010205171 | The National Library of Israel"
+    },
+    {
+      "candidate_id": "pinkas_open:pinkas-ledger-001",
+      "canonical_item_id": "pinkas_open:pinkas-ledger-001",
+      "classification_review_reasons": [],
+      "content_class": "handwritten",
+      "content_confidence": 0.7,
+      "content_fingerprint": "b179aae67597cd09673f40b95205171c953e6d9d6201353a5961f60a72ae8edb",
+      "dedupe_cluster_id": null,
+      "dedupe_status": "retained",
+      "discovery_method": "static_importer",
+      "eligibility": "accepted",
+      "eligibility_reason": "allowed_by_profile",
+      "exported_assets": [
+        {
+          "asset_format": "jpeg",
+          "media_type": "image/jpeg",
+          "release_asset_path": "data/train/pinkas_open:pinkas-ledger-001/asset_01.jpg",
+          "release_preview_path": "data/train/pinkas_open:pinkas-ledger-001/previews/asset_01.jpg"
+        }
+      ],
+      "is_synthetic": false,
+      "item_id": "pinkas_open:pinkas-ledger-001",
+      "language_class": "mixed_language",
+      "language_confidence": 0.65,
+      "metadata": {
+        "collection": "World Digital Library / V.I. Vernadsky National Library of Ukraine",
+        "period": "historical",
+        "upstream_identifier": "WDL11806-page-9"
+      },
+      "normalized_license": "PD-IL",
+      "period_class": "historical",
+      "period_confidence": 0.95,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "provenance": {
+        "fetcher": "pinkas",
+        "source_name": "Pinkas historical open package",
+        "source_status": "allowed",
+        "upstream_identifier": "pinkas-ledger-001"
+      },
+      "qa_fail_reasons": [],
+      "qa_status": "passed",
+      "quality_score": 0.9,
+      "quality_tier": "high",
+      "raw_rights_text": "PD-IL",
+      "rights_classification": "open",
+      "source_id": "pinkas_open",
+      "source_item_id": "pinkas-ledger-001",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pinkas_of_the_Talmud_Torah_Religious_School_from_Kopychintsy_WDL11806.pdf",
+      "split": "train",
+      "split_group_id": "pinkas_open:pinkas-ledger-001",
+      "title": "Pinkas of the Talmud Torah Religious School from Kopychintsy (interior text page)"
+    },
+    {
+      "candidate_id": "project_synthetic:synthetic:0",
+      "canonical_item_id": "project_synthetic:synthetic-0",
+      "classification_review_reasons": [],
+      "content_class": "printed",
+      "content_confidence": 0.95,
+      "content_fingerprint": "4019e1c20507997f2c54add45fed99d79800898266318ff887f0bd2dad7da129",
+      "dedupe_cluster_id": null,
+      "dedupe_status": "retained",
+      "discovery_method": "synthetic_generator",
+      "eligibility": "accepted",
+      "eligibility_reason": "allowed_by_profile",
+      "exported_assets": [
+        {
+          "asset_format": "jpeg",
+          "media_type": "image/jpeg",
+          "release_asset_path": "data/train/project_synthetic:synthetic-0/asset_01.jpg",
+          "release_preview_path": "data/train/project_synthetic:synthetic-0/previews/asset_01.jpg"
+        }
+      ],
+      "is_synthetic": true,
+      "item_id": "project_synthetic:synthetic-0",
+      "language_class": "mixed_language",
+      "language_confidence": 0.85,
+      "metadata": {
+        "synthetic_font_id": "alef-regular",
+        "synthetic_footer": "\u05e8\u05d9\u05e9\u05d5\u05dd 34",
+        "synthetic_generator_version": "b5b3-jpeg-v2",
+        "synthetic_template_id": "printed_letter",
+        "template_ids": [
+          "printed_letter",
+          "handwritten_note"
+        ]
+      },
+      "normalized_license": "PROJECT-SYNTHETIC",
+      "period_class": "modern",
+      "period_confidence": 0.95,
+      "privacy_decision": "release_ready",
+      "privacy_flag": "clear",
+      "privacy_reasons": [],
+      "provenance": {
+        "fetcher": "synthetic",
+        "source_name": "Project synthetic generator",
+        "source_status": "allowed",
+        "upstream_identifier": "synthetic-0"
+      },
+      "qa_fail_reasons": [],
+      "qa_status": "passed",
+      "quality_score": 1.0,
+      "quality_tier": "high",
+      "raw_rights_text": "PROJECT-SYNTHETIC",
+      "rights_classification": "open",
+      "source_id": "project_synthetic",
+      "source_item_id": "synthetic-0",
+      "source_url": "synthetic://project_synthetic/0",
+      "split": "train",
+      "split_group_id": "project_synthetic:synthetic-0",
+      "title": "\u05de\u05db\u05ea\u05d1 \u05de\u05e0\u05d4\u05dc\u05d9"
+    }
+  ]
+}

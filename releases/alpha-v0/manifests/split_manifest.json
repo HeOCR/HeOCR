@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "dedupe_cluster_id": null,
+      "item_id": "nli_any_use_permitted:nli-ms-seed-006",
+      "split": "train",
+      "split_group_id": "nli_any_use_permitted:nli-ms-seed-006"
+    },
+    {
+      "dedupe_cluster_id": null,
+      "item_id": "pinkas_open:pinkas-ledger-001",
+      "split": "train",
+      "split_group_id": "pinkas_open:pinkas-ledger-001"
+    },
+    {
+      "dedupe_cluster_id": null,
+      "item_id": "project_synthetic:synthetic-0",
+      "split": "train",
+      "split_group_id": "project_synthetic:synthetic-0"
+    }
+  ]
+}

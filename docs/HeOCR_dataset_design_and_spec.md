@@ -935,6 +935,12 @@ Changes to the following should be reviewable in pull requests:
 
 This keeps the dataset governance transparent.
 
+When a pull request implements a roadmap-tracked item or any other explicitly planned milestone item, the PR metadata should reflect that plan directly:
+
+- use the title format `<notation>: <sentence-case summary>`
+- include a top-level `## Planning notation` section in the PR body with the notation, parent milestone, and plan source
+- do not use a generic title for work that already has planning notation
+
 ---
 
 ## 19. Suggested Storage Layout

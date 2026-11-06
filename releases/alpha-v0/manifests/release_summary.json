@@ -1,0 +1,22 @@
+{
+  "accepted_count": 10,
+  "blocked_count": 0,
+  "exported_item_count": 3,
+  "exported_real_items": 2,
+  "exported_synthetic_items": 1,
+  "is_dry_run": true,
+  "max_real_items": 10,
+  "max_synthetic_items": 20,
+  "normalized_count": 7,
+  "profile_id": "profile_open_v1",
+  "real_items": 2,
+  "release_ready_count": 3,
+  "retained_count": 7,
+  "review_required_count": 4,
+  "split_counts": {
+    "train": 3
+  },
+  "synthetic_clamped_to_real": true,
+  "synthetic_items": 1,
+  "version": "alpha-v0"
+}

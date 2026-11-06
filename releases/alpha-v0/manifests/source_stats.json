@@ -1,0 +1,28 @@
+{
+  "asset_formats": {
+    "jpeg": 3
+  },
+  "duplicate_sources": {},
+  "rights_classifications": {
+    "open": 3
+  },
+  "sources": {
+    "nli_any_use_permitted": 1,
+    "pinkas_open": 1,
+    "project_synthetic": 1
+  },
+  "sources_by_split": {
+    "nli_any_use_permitted": {
+      "train": 1
+    },
+    "pinkas_open": {
+      "train": 1
+    },
+    "project_synthetic": {
+      "train": 1
+    }
+  },
+  "splits": {
+    "train": 3
+  }
+}

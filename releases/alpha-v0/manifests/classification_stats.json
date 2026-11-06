@@ -1,0 +1,17 @@
+{
+  "content_class": {
+    "handwritten": 2,
+    "printed": 1
+  },
+  "language_class": {
+    "mixed_language": 3
+  },
+  "low_confidence_reason": {},
+  "period_class": {
+    "historical": 1,
+    "modern": 2
+  },
+  "quality_tier": {
+    "high": 3
+  }
+}
